@@ -125,7 +125,7 @@ I used tensorflow to create a CNN with 3 layers, and trained it for 1000 epochs,
 
 ## Submission
 
-My submitted file is: titanic-predictions.csv. 
+My submitted file is: results.csv. 
 
 ## Author
 
