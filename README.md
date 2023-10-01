@@ -129,7 +129,8 @@ My submitted file is: titanic-predictions.csv.
 
 ## Author
 
-* **Selim Amrouni** [selimamrouni](https://github.com/selimamrouni)
+* **Ali Osseili** (https://github.com/selimamrouni)
+(www.linkedin.com/in/ali-osseili-698268232)
 
 
 
